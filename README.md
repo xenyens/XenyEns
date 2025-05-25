@@ -11,8 +11,9 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />  
-  <img alt="VUE 3" src="https://img.shields.io/badge/VUE3-009193?logo=vuedotjs&logoColor=white&style=for-the-badge" />
-  <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-004479?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="VUE 3" src="https://img.shields.io/badge/Vue 3-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="TailWindCss" src="https://img.shields.io/badge/TypeScript-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   
 
 </p>
